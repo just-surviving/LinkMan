@@ -62,10 +62,10 @@ Replace ***YOUR_MONGODB_CONNECTION_URL*** with your MongoDB connection URL (coul
 The backend server is now up and running.
 ### Frontend Setup (Link Man)
 
-1. **Clone the Link Man Frontend repository from** from [link-man](https://github.com/AddyAddline/link-man):
+1. **Clone the Link Man Frontend repository from** from [link-man](https://github.com/just-surviving/LinkMan.git):
 
    ```bash
-
+      https://github.com/just-surviving/LinkMan.git
    ```
 2. **Navigate to the Frontend project directory:**
     ```bash
