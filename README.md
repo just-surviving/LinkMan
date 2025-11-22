@@ -65,7 +65,7 @@ The backend server is now up and running.
 1. **Clone the Link Man Frontend repository from** from [link-man](https://github.com/AddyAddline/link-man):
 
    ```bash
-   git clone https://github.com/AddyAddline/link-man.git
+
    ```
 2. **Navigate to the Frontend project directory:**
     ```bash
