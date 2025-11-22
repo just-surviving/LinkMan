@@ -31,10 +31,10 @@ To run Link Man locally, follow these steps:
 
 ### Backend Setup (Link Man API)
 
-1. **Clone the Link Man API repository** from [link-man-api](https://github.com/just-surviving/LinkMan.git):
+1. **Clone the Link Man API repository** from [link-man-api](https://github.com/just-surviving/link-man-api.git):
 
    ```bash
-   git clone https://github.com/AddyAddline/link-man-api.git
+   git clone https://github.com/just-surviving/link-man-api.git
    ```
 2.  **Navigate to the API project directory:**
     ```bash
@@ -65,7 +65,7 @@ The backend server is now up and running.
 1. **Clone the Link Man Frontend repository from** from [link-man](https://github.com/just-surviving/LinkMan.git):
 
    ```bash
-      https://github.com/just-surviving/LinkMan.git
+     git clone https://github.com/just-surviving/LinkMan.git
    ```
 2. **Navigate to the Frontend project directory:**
     ```bash
