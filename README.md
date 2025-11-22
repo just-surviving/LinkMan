@@ -31,7 +31,7 @@ To run Link Man locally, follow these steps:
 
 ### Backend Setup (Link Man API)
 
-1. **Clone the Link Man API repository** from [link-man-api](https://github.com/AddyAddline/link-man-api):
+1. **Clone the Link Man API repository** from [link-man-api](https://github.com/just-surviving/LinkMan.git):
 
    ```bash
    git clone https://github.com/AddyAddline/link-man-api.git
